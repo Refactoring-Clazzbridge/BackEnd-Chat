@@ -1,13 +1,13 @@
-package com.ll.chat;
+package com.clazzbridge.connection;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChatApplication {
+public class ConnectionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ChatApplication.class, args);
+		SpringApplication.run(ConnectionApplication.class, args);
 	}
 
 }
